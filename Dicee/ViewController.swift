@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
     
-    //MARK: - DiceProperties
+    //MARK: - Properties
   
     let diceFaces = ["dice1", "dice2", "dice3", "dice4", "dice5", "dice6"]
     var randomDiceIndex1: Int = 0
